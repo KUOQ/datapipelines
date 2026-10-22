@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# dbt
+transform/target/
+transform/dbt_packages/
+transform/logs/
+
+# Divers
+.DS_Store
+.vscode/
