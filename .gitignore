@@ -14,3 +14,6 @@ transform/logs/
 # Divers
 .DS_Store
 .vscode/
+
+# Données locales
+data/
